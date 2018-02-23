@@ -2,7 +2,7 @@
   html2canvas 0.5.0-beta4 <http://html2canvas.hertzen.com>
   Copyright (c) 2017 Niklas von Hertzen
   2017-06-14 Custom build by Erik Koopmans, featuring latest bugfixes and features
-
+    
   Released under MIT License
 */
 
